@@ -22,7 +22,11 @@
 				<td><input type="text" name="phone"></td>
 			</tr>
 			<tr>
-				<td>Address Details</td>
+				<td>Current Address Details</td>
+				<td><textarea rows="4" cols="34" name="address"></textarea></td>
+			</tr>
+			<tr>
+				<td>Permanent Address Details</td>
 				<td><textarea rows="4" cols="34" name="address"></textarea></td>
 			</tr>
 			<tr>
